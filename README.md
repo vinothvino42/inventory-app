@@ -61,3 +61,7 @@ An open-source inventory management system built with Next.js, Prisma, and Stack
 - `components/` — Reusable UI components
 - `lib/` — Auth, Prisma, and server actions
 - `prisma/` — Prisma schema and seed script
+
+## Credits
+
+[YouTube - NextJS 16 FullStack Course - Build an Inventory Management Website](https://www.youtube.com/watch?v=L5CsIkO5xv4&t=845s)
